@@ -22,11 +22,11 @@
 
 | 👉 | **Chrome Extension** |
 |----|----------------------|
-| 📥 | [Download Here (MediaFire)]([https://www.mediafire.com/your-extension-link](https://www.mediafire.com/file/wro2f0ybid2kz66/deepfake_extension.crx/file)) |
+| 📥 | [Download Here (MediaFire)](https://www.mediafire.com/your-extension-link](https://www.mediafire.com/file/wro2f0ybid2kz66/deepfake_extension.crx/file) |
 
 | 👉 | **Visit Our Website** |
 |----|-----------------------|
-| 🌐 | [v0dev - Official Site](https://v0dev.site) |
+| 🌐 | [v0dev - Official Site](https://v0dev.site](https://v0-deepfake-video-detector-9klunz.vercel.app/) |
 
 ---
 
