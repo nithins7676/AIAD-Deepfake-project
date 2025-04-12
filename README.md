@@ -22,7 +22,7 @@
 
 | 👉 | **Chrome Extension** |
 |----|----------------------|
-| 📥 | [Download Here (MediaFire)](https://www.mediafire.com/your-extension-link) |
+| 📥 | [Download Here (MediaFire)]([https://www.mediafire.com/your-extension-link](https://www.mediafire.com/file/wro2f0ybid2kz66/deepfake_extension.crx/file)) |
 
 | 👉 | **Visit Our Website** |
 |----|-----------------------|
