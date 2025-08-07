@@ -138,8 +138,8 @@ Send `/start`, then upload an image → Get instant deepfake results!
 |------------|-------------------------------------|
 | Frontend   | React.js, Tailwind CSS              |
 | Extension  | JavaScript + API (FastAPI)          |
-| Backend    | Flask, TensorFlow, FastAPI, Uvicorn |
-| Models     | XceptionNet, MesoNet, ViT, MViTv2   |
+| Backend    | TensorFlow, FastAPI, Uvicorn |
+| Models     | ViT, MViTv2   |
 
 ---
 
